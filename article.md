@@ -36,7 +36,6 @@ Python functions are blocks of code that can be reused multiple times. A functio
 
 For example, the following code defines a function called greet that prints a message:
 ```python 
-FILE_PATH = r"c:\temp\story.txt" 
 def greet(name):
     print(f"Hello, {name}")
 
@@ -53,7 +52,7 @@ Python has a variety of built-in functions that can be used to perform a wide ra
 | `str()`    | The *str* function is used to convert a value to a string.                    |
 | `int()`    | The *int* function is used to convert a value to an integer.                  |
 | `min()`    | The *min* function is used to find the minimum value in a list or a string.   |
-| `max()`    | The *min* function is used to find the maximum value in a list or a string.   |
+| `max()`    | The *max* function is used to find the maximum value in a list or a string.   |
 
 ## Conclusion
 Python is a powerful, high-level programming language that is widely used in many different fields. Its simple, easy-to-read syntax makes it an ideal choice for beginners and experts alike, and its large community of developers ensures that there is always support and resources available. With a wide range of libraries available for different tasks, Python is a versatile choice for any programmer.
