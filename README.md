@@ -1,6 +1,7 @@
 # Application Development Assignment A
 
 Submitted by u108365
+-> Not the final version of this assignment, only a first draft
 
 
 ## Photo
